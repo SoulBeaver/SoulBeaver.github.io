@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "name": "I.Acidentally.Everything",
+    "owner": "Christian Broomfield",
+    "description": "Programming and potentially anything else"
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -22,5 +22,6 @@
   },
   "paginator": {
     "perPage": 3
-  }
+  },
+  "output": "../"
 }
