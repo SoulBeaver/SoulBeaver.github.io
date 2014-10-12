@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "I.Acidentally.Everything",
+    "name": "I.Accidentally.Everything",
     "owner": "Christian Broomfield",
-    "description": "Programming and potentially anything else"
+    "description": "Programming and potentially everything else"
   },
   "plugins": [
     "./plugins/paginator.coffee"
