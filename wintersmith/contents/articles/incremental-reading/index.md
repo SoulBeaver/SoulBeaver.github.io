@@ -1,3 +1,14 @@
+---
+title: Incremental Reading 1
+author: Christian Broomfield
+date: 2014-10-12
+template: article.jade
+---
+
+An introduction into the wonderful world of spaced repetition and incremental reading.
+
+---
+
 # Incremental Reading
 
 If you've ever experienced or practiced something called *spaced repetition*, then you might have stumbled across the nebulous *incremental reading* before. Spaced repetition is a fancy term for using flashcards to retain pieces of information over long stretches of time, usually measured in years. It does this by *spacing* each flash card out according to how well you remembered it the last time you saw it. Conventional software allows you to rate your answer to a flashcard from *Poor*- repeat within a few hours or days- to *Great*- repeat only within the next weeks or months. 
