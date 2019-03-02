@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "https://github.com/SoulBeaver/d100",
+    "name": "Almah | Software",
+    "owner": "Christian Broomfield",
+    "description": "Placeholder for my wicked cool projects."
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "pug": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}
