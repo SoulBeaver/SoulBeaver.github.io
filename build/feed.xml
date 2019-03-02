@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Almah | Software</title>
+    <atom:link href="https://github.com/SoulBeaver/d100/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://github.com/SoulBeaver/d100</link>
+    <description>Placeholder for my wicked cool projects.</description>
+    <pubDate>Sat, 02 Mar 2019 01:00:00 +0100</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Hello World</title>
+      <link>https://github.com/SoulBeaver/d100/articles/hello-world/</link>
+      <pubDate>Sat, 02 Mar 2019 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">https://github.com/SoulBeaver/d100/articles/hello-world/</guid>
+      <author>Christian Broomfield</author>
+      <description>&lt;p&gt;Welcome to this little site. It doesn’t feature much yet, but it’s a springboard for some of my new projects such as &lt;a href=&quot;https://github.com/SoulBeaver/d100&quot;&gt;d100&lt;/a&gt;, a tool for making the rolling of random tables easier.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
