@@ -1,235 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc5b1a8d-dff5-4e2c-8536-886e917ac806" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/another-test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/bamboo-cutter/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/bamboo-cutter/taketori_monogatari.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/hello-world/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/incremental-reading/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/markdown-syntax/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/red-herring/banana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/red-herring/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/contents/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/contents/archive.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/contents/articles/incremental-reading/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/contents/authors/baker.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/contents/authors/the-wintersmith.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/contents/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/contents/feed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/.vimrc-local" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/ender.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ar-ma.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/br.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/bs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/cv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/en-au.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/en-ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/en-gb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/eo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/fr-ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ka.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/mr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ms-my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ne.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/nn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/pt-br.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/sq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/tzm-la.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/tzm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/uz.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/vn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/lang/zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/min/langs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/min/langs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/min/moment-with-langs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/min/moment-with-langs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/min/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/package.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/tasks/component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/tasks/embed_languages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/tasks/history.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/tasks/size.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/tasks/zones.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ar-ma.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/br.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/bs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/cv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/en-au.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/en-ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/en-gb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/eo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/fr-ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ka.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/mr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ms-my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ne.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/nn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/pt-br.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/sq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/tzm-la.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/tzm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/uz.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/vn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/lang/zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/add_subtract.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/create.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/days_in_month.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/diff.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/duration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/format.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/getters_setters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/invalid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/is_after.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/is_before.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/is_moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/is_same.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/is_valid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/lang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/leapyear.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/listers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/min_max.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/mutable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/normalizeUnits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/parsing_flags.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/preparse_postformat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/sod_eod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/string_prototype.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/utc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/week_year.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/weekday.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/weeks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/moment/test/moment/zones.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/example/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/example/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/test/qunit.test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/test/typogr.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/typogr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/typogr/typogr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/underscore-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/node_modules/underscore/underscore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/plugins/paginator.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/templates/archive.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/templates/article.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/templates/author.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/templates/feed.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/templates/index.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wintersmith/templates/layout.jade" beforeDir="false" />
-    </list>
+    <list default="true" id="bc5b1a8d-dff5-4e2c-8536-886e917ac806" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -250,81 +22,6 @@
               </second_editor>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/about.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="124">
-                <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/layout.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/articles/hello-world/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="217">
-                <caret line="7" column="215" selection-start-line="7" selection-start-column="215" selection-end-line="7" selection-end-column="215" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.pug">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/archive.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contents/feed.json">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -367,35 +64,6 @@
               <item name="SoulBeaver.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="SoulBeaver.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="contents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SoulBeaver.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SoulBeaver.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="contents" type="462c0819:PsiDirectoryNode" />
-              <item name="articles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SoulBeaver.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SoulBeaver.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="contents" type="462c0819:PsiDirectoryNode" />
-              <item name="articles" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SoulBeaver.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SoulBeaver.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="contents" type="462c0819:PsiDirectoryNode" />
-              <item name="authors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SoulBeaver.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SoulBeaver.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SoulBeaver.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SoulBeaver.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -535,18 +203,6 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="93">
-            <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
@@ -580,6 +236,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
